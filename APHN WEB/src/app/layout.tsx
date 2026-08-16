@@ -22,12 +22,16 @@ export const metadata: Metadata = {
   description: "Official web portal of the Association of Private Hospital and Nursing Home (APHN) West Bengal. Facilitating private healthcare collaboration, patient safety, and regulatory compliance.",
   keywords: "APHN, Association of Private Hospital and Nursing Home, West Bengal nursing homes, Swasthya Sathi, Clinical Establishment compliance, patient safety West Bengal",
   authors: [{ name: "APHN State Committee" }],
-  viewport: "width=device-width, initial-scale=1.0",
+};
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1.0,
 };
 
 export default function RootLayout({
   children,
-  }: {
+}: {
   children: React.ReactNode;
 }) {
   return (
