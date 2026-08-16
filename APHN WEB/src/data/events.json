@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "annual-general-meeting-2026",
+    "title": "APHN Bi-Annual General Meeting (AGM) 2026",
+    "date": "2026-09-18",
+    "time": "11:00 AM - 04:00 PM",
+    "venue": "AAI Newtown Community Hall, Newtown, Kolkata",
+    "district": "Kolkata",
+    "status": "upcoming",
+    "description": "The general assembly for APHN state members to elect office bearers, present audit reports, and vote on upcoming constitutional reforms.",
+    "content": "All registered General Members are requested to attend the upcoming Bi-Annual General Meeting (AGM). The agenda includes review of audited balance sheets, updates on district coordinator boundaries, selection of state Executive Members, and a panel discussion on private healthcare challenges under current state guidelines.",
+    "registrationLimit": 200,
+    "isExample": true
+  },
+  {
+    "slug": "nabh-quality-support-camp",
+    "title": "Quality Care Seminar & NABH Entry-Level Support Camp",
+    "date": "2026-10-05",
+    "time": "10:00 AM - 05:00 PM",
+    "venue": "North Bengal Medical Hub Conference Hall, Siliguri",
+    "district": "Siliguri",
+    "status": "upcoming",
+    "description": "A hands-on training clinic designed to help nursing homes prepare documentation and systems for entry-level NABH accreditation.",
+    "content": "The Training & Quality Assurance Committee will be hosting a one-day workshop in Siliguri. Our certified clinical audit consultants will explain entry-level NABH guidelines, help map required documentation registers, and offer direct pre-screening analysis for attending nursing homes.",
+    "registrationLimit": 60,
+    "isExample": true
+  },
+  {
+    "slug": "district-units-coordination-meet",
+    "title": "North Bengal District Units Coordination Summit",
+    "date": "2026-10-22",
+    "time": "02:00 PM - 06:00 PM",
+    "venue": "Hotel Shanti Niwas Auditorium, Alipurduar",
+    "district": "Alipurduar",
+    "status": "upcoming",
+    "description": "A regional summit focused on coordination between Alipurduar, Jalpaiguri, and Siliguri units to streamline member communication.",
+    "content": "A regional alignment meeting chaired by Joint Secretary Manna Chowdhury. The discussion will cover membership fee collections, regional healthcare worker security cells, and coordination with local district magistrates on healthcare license issues.",
+    "registrationLimit": 80,
+    "isExample": true
+  },
+  {
+    "slug": "critical-care-paramedic-training",
+    "title": "Critical Care Paramedic and Nursing Skill Seminar",
+    "date": "2026-08-05",
+    "time": "09:30 AM - 04:30 PM",
+    "venue": "Medinipur Care Home Campus, West Medinipore",
+    "district": "West Medinipore",
+    "status": "completed",
+    "description": "Skill update sessions covering cardiac emergencies, airway management, and high-flow oxygen supply systems.",
+    "content": "This event was successfully completed under the direction of the Training Committee. Over 35 paramedical staffs from Midnapore and Murshidabad attended. Certificates have been issued to all participants who completed the final assessment.",
+    "registrationLimit": 40,
+    "isExample": true
+  }
+]

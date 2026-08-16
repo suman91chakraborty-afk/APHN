@@ -1,0 +1,58 @@
+{
+  "name": "Association of Private Hospital and Nursing Home",
+  "shortName": "APHN",
+  "domain": "aphnwb.com",
+  "tagline": "Care • Collaborate • Commit",
+  "secondaryTagline": "Together for Better Healthcare in West Bengal",
+  "registeredOffice": "BD 116, Flat 301, 3rd Floor, AAI, Newtown, Kolkata – 700156 (P.S. Newtown, Dist. 24 Parganas (North))",
+  "registration": "Registered as a society (Societies Registration Act)",
+  "scope": "West Bengal — state-level body with district/area units",
+  "mission": "To strengthen and support private hospitals and nursing homes by promoting quality healthcare, ethical practices, collaboration, and constructive engagement with the Government for the benefit of patients and society.",
+  "vision": "To build a united, trusted, and progressive network of private healthcare providers committed to accessible, affordable, and high-quality healthcare across the State.",
+  "objectives": [
+    "Promote ethical, transparent, patient-centric healthcare practices among private hospitals and nursing homes",
+    "Safeguard the interests of member institutions while upholding professionalism and integrity",
+    "Work collaboratively with Government and regulatory authorities to improve healthcare policy and implementation",
+    "Encourage continuous quality improvement, patient safety, and regulatory compliance",
+    "Provide a platform for knowledge sharing, training, and capacity building",
+    "Foster unity, cooperation, and mutual support among private healthcare providers",
+    "Improve access to affordable, quality healthcare through innovation and collaboration",
+    "Represent the collective voice of private hospitals and nursing homes on sectoral issues and public health initiatives"
+  ],
+  "membershipCategories": [
+    {
+      "name": "General Member",
+      "description": "Proprietor/partner/director of a Clinical Establishment with a valid (or ≤6-month-lapsed) CE licence. Holds voting rights. Cannot simultaneously belong to a similar association."
+    },
+    {
+      "name": "Associate Member",
+      "description": "Partner/director/first-degree family of a CE owner. No voting rights. Fees are set at 50% of a General Member."
+    },
+    {
+      "name": "Honorary Member",
+      "description": "Patrons/advisors/eminent individuals. Exempt from fees. No voting rights unless specifically granted."
+    },
+    {
+      "name": "Special Membership",
+      "description": "Core Committee discretion for applicants who don't meet standard criteria, subject to Governing Body approval."
+    }
+  ],
+  "annualFeesByBedStrength": [
+    {
+      "range": "Up to 50 beds",
+      "fee": 2000
+    },
+    {
+      "range": "51–100 beds",
+      "fee": 3000
+    },
+    {
+      "range": "Above 100 beds",
+      "fee": 4000
+    }
+  ],
+  "additionalFeeNotes": [
+    "Founder Members: One-time ₹10,000 contribution to the initial corpus (standard annual fee applies thereafter).",
+    "Revenue Sharing: 60% retained by District Committee, 40% to State Committee."
+  ]
+}

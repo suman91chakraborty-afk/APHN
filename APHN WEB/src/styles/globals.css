@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Deep purple — primary/institutional */
+  --color-primary-900: #3C0A64;
+  --color-primary-700: #55148B;
+  --color-primary-500: #7A22B8;
+  --color-primary-100: #F1E6FA;
+
+  --color-accent-600: #E85D1F;
+  --color-accent-500: #F4762D;
+  --color-accent-300: #FFA05C;
+  --color-accent-100: #FFEFE2;
+
+  --color-bg: #F7F9FB;
+  --color-surface: #FFFFFF;
+  --color-text: #14213D;
+  --color-text-muted: #5B6B82;
+  --color-border: #E2E8F0;
+
+  --color-success: #1E8E5A;
+  --color-warning: #D9822B;
+  --color-danger: #C0392B;
+
+  /* Typography */
+  --font-heading: "Sora", "Poppins", sans-serif;
+  --font-body: "Inter", "Public Sans", sans-serif;
+
+  /* Borders & Shadows */
+  --radius-md: 10px;
+  --radius-lg: 18px;
+  --shadow-card: 0 4px 20px rgba(10, 38, 71, 0.08);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--color-primary-900);
+    font-weight: 700;
+  }
+}
+
+/* Custom Utilities */
+.text-gradient {
+  background: linear-gradient(135deg, var(--color-primary-900) 0%, var(--color-primary-700) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

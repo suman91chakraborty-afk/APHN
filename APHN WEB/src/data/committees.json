@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "State Core Committee",
+    "chairperson": "Abhijit Mondal",
+    "objectives": [
+      "Oversee day-to-day decision-making and critical operations",
+      "Formulate long-term strategic plans for the association",
+      "Coordinate responses to urgent policy developments"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Government Liaison & Policy Committee",
+    "chairperson": "Ankur Roy Choudhury",
+    "objectives": [
+      "Represent member interests before state health departments",
+      "Participate in advisory discussions for healthcare guidelines",
+      "Provide inputs on clinical regulations and draft policies"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Clinical Establishment Licensing Support Cell",
+    "chairperson": "Chandi Charan Maity",
+    "objectives": [
+      "Help small-to-medium nursing homes with licensing compliance",
+      "Advocate for transparent, online, time-bound registration renewals",
+      "Organize educational workshops on statutory regulations"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Swasthya Sathi & Ayushman Bharat Coordination",
+    "chairperson": "Manna Chowdhury",
+    "objectives": [
+      "Coordinate with departments to resolve reimbursement delays",
+      "Streamline pre-authorization workflows for private clinical partners",
+      "Promote ethical utilization of state-sponsored health programs"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Patient & Healthcare Worker Safety Council",
+    "chairperson": "Dr. Ashok Kandary",
+    "objectives": [
+      "Ensure robust security protocols for doctors and clinical staff",
+      "Develop guidelines for patient dignity and grievances handling",
+      "Conduct campaigns on non-violence in medical premises"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Legal & Grievance Representation Committee",
+    "chairperson": "Dr. Bijoy Kr Gulgulia",
+    "objectives": [
+      "Provide legal counsel and guidance for member institutions",
+      "Scrutinize complaints and represent members before authorities",
+      "Address internal grievances between members and district committees"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Public Relations & Media Committee",
+    "chairperson": "Dr. Rajiv Kumar Pandey",
+    "objectives": [
+      "Publish official statements and manage press releases",
+      "Build a positive image of private healthcare contributions",
+      "Manage social channels and response strategies"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "District Units Coordination Committee",
+    "chairperson": "Sajal Karmakar",
+    "objectives": [
+      "Facilitate interactions between state committee and district units",
+      "Set up new district blocks and local subcommittees",
+      "Review regional membership fees and collection models"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Training & Quality Assurance Committee",
+    "chairperson": "Dr. Sudipta Ghosh",
+    "objectives": [
+      "Design skill programs for nursing and paramedical staff",
+      "Help clinical establishments prepare for NABH Entry-Level certification",
+      "Encourage continuous professional medical updates"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "IT, Digital & Website Committee",
+    "chairperson": "Milan Chakraborty",
+    "objectives": [
+      "Maintain the official APHN web portal and member dashboard",
+      "Manage online membership registers and database directory",
+      "Integrate online payment gateways and circular downloads"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ethical Practices & Audit Committee",
+    "chairperson": "Dr. Joydeb Koley",
+    "objectives": [
+      "Implement a standardized Code of Conduct for members",
+      "Investigate violations of ethics guidelines or overcharging reports",
+      "Promote medical audit reviews among private hospitals"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Health Programs & Community Services",
+    "chairperson": "Dr. Tapan Kumar Biswas",
+    "objectives": [
+      "Drive participation in national health programs (TB, immunization)",
+      "Host free screening camps in coordination with local bodies",
+      "Manage disaster response coordination when requested"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Public Awareness & Health Promotion",
+    "chairperson": "Dr. Arun Kumar Gupta",
+    "objectives": [
+      "Educate communities on preventive wellness and lifestyle issues",
+      "Publish patient rights manuals and healthcare resources",
+      "Organize health awareness campaigns in remote districts"
+    ]
+  }
+]

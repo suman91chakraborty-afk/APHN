@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Abhijit Mondal",
+    "district": "Kolkata",
+    "designation": "President",
+    "additionalRole": "State Core Committee Chairman",
+    "bio": "Experienced healthcare administrator and director, leading policy formulation and strategic partnerships for private clinical establishments across West Bengal.",
+    "phone": "+91 (033) APHN-OFFICE",
+    "email": "president@aphnwb.com",
+    "avatar": "AM"
+  },
+  {
+    "name": "Dr. Rajiv Kumar Pandey",
+    "district": "Nadia/Dinajpur",
+    "designation": "Secretary",
+    "additionalRole": "Media & Communications Secretary",
+    "bio": "Consultant clinical practitioner, coordinating state operations, press briefings, and regulatory coordination committees.",
+    "phone": "+91 (033) APHN-OFFICE",
+    "email": "secretary@aphnwb.com",
+    "avatar": "RP"
+  },
+  {
+    "name": "Milan Chakraborty",
+    "district": "Kolkata",
+    "designation": "Treasurer",
+    "additionalRole": "IT & Digital Coordinator",
+    "bio": "Financial advisor and clinical services manager, overseeing budget governance, membership accounting, and digital initiatives.",
+    "phone": "+91 (033) APHN-OFFICE",
+    "email": "treasurer@aphnwb.com",
+    "avatar": "MC"
+  },
+  {
+    "name": "Dr. Joydeb Koley",
+    "district": "Hooghly",
+    "designation": "Vice President",
+    "bio": "Eminent medical officer managing nursing homes in Hooghly, focused on district unit coordination and healthcare workers safety compliance.",
+    "avatar": "JK"
+  },
+  {
+    "name": "Dr. Bijoy Kr Gulgulia",
+    "district": "Murshidabad",
+    "designation": "Vice President",
+    "bio": "Hospital director spearheading healthcare affordability and primary treatment setups in central West Bengal districts.",
+    "avatar": "BG"
+  },
+  {
+    "name": "Dr. Tapan Kumar Biswas",
+    "district": "West Medinipore",
+    "designation": "Vice President",
+    "bio": "Senior clinician and administrator advising on nursing home regulations and clinical quality upgrades in Medinipore region.",
+    "avatar": "TB"
+  },
+  {
+    "name": "Dr. Ashok Kandary",
+    "district": "South 24 Parganas",
+    "designation": "Vice President",
+    "bio": "Dedicated healthcare provider working towards medical accessibility in rural and suburban communities.",
+    "avatar": "AK"
+  },
+  {
+    "name": "Dr. Arun Kumar Gupta",
+    "district": "Siliguri",
+    "designation": "Vice President",
+    "bio": "Administrator leading private clinical association alignments and healthcare delivery standards in North Bengal.",
+    "avatar": "AG"
+  },
+  {
+    "name": "Gautam Purkayastha",
+    "district": "Kolkata",
+    "designation": "Vice President",
+    "bio": "Managing partner of multispeciality setups, specializing in private sector policy advocacy and licensing facilitation.",
+    "avatar": "GP"
+  },
+  {
+    "name": "Manna Chowdhury",
+    "district": "Alipurduar",
+    "designation": "Joint Secretary",
+    "additionalRole": "State Coordinator",
+    "bio": "Administrative coordinator managing operational coordination between North Bengal districts and the state body.",
+    "avatar": "MC"
+  },
+  {
+    "name": "Dr. Kamalesh Biswas",
+    "district": "Jalpaiguri",
+    "designation": "Assistant Secretary",
+    "bio": "Promoting local unit collaborations and medical education workshops in North Bengal districts.",
+    "avatar": "KB"
+  },
+  {
+    "name": "Dr. Sashi Kumar Gupta",
+    "district": "State Executive",
+    "designation": "Assistant Secretary",
+    "bio": "Expert in nursing home operations, managing member relations and advisory support.",
+    "avatar": "SG"
+  },
+  {
+    "name": "Dr. Sourya Kanti Das",
+    "district": "East Midnapore",
+    "designation": "Assistant Secretary",
+    "bio": "Organizing compliance audits and licensing assistance camps for diagnostic centers and nursing homes.",
+    "avatar": "SD"
+  },
+  {
+    "name": "Dr. Sudipta Ghosh",
+    "district": "Howrah",
+    "designation": "Assistant Secretary",
+    "additionalRole": "Training & Quality Coordinator",
+    "bio": "Managing clinical audits, nursing skill trainings, and NABH-entry level guidelines support for members.",
+    "avatar": "SG"
+  },
+  {
+    "name": "Dr. Sukhomoy Barik",
+    "district": "Kolkata",
+    "designation": "Assistant Secretary",
+    "additionalRole": "Assistant Treasurer",
+    "bio": "Assisting in state budget planning, internal auditing, and member registration validations.",
+    "avatar": "SB"
+  },
+  {
+    "name": "Ankur Roy Choudhury",
+    "district": "Kolkata",
+    "designation": "Executive Member",
+    "additionalRole": "State Convenor",
+    "bio": "Senior coordinator for inter-association dialogues and liaison officer for government department meets.",
+    "avatar": "AC"
+  },
+  {
+    "name": "Sajal Karmakar",
+    "district": "Basirhat",
+    "designation": "Executive Member",
+    "additionalRole": "State Coordinator",
+    "bio": "District convenor promoting community outreach, health screening camps, and state-level policy updates.",
+    "avatar": "SK"
+  },
+  {
+    "name": "Chandi Charan Maity",
+    "district": "South 24 Parganas",
+    "designation": "Executive Member",
+    "bio": "Advising on legal parameters of Clinical Establishment Act compliance and licensing support.",
+    "avatar": "CM"
+  }
+]
